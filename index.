@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Resume CV Design</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="file:///C:/Users/Angielica%20Metran/Desktop/CV.Berna/index.html"></script>
+</head>
+
+
+<div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-9">
+          <div class="row align-items-center">
+            <div class="col-lg-5">
+              <div class="resume-base bg-primary user-dashboard-info-box p-4">
+                <div class="profile">
+                  <div class="jobster-user-info">
+                    <div class="profile-avatar">
+                      <img class="img-fluid " src="berna6.jpg" alt="">
+                    </div>
+                    <div class="profile-avatar-info mt-3">
+                      <h5 class="text-white">Personal Information:</h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="about-candidate border-top">
+                  <div class="candidate-info">
+                    <h6 class="text-white">Name:</h6>
+                    <p class="text-white">Bernadeth Carnacite</p>
+                  </div>
+                  <div class="candidate-info">
+                    <h6 class="text-white">Email:</h6>
+                    <p class="text-white">carnacitebernadeth_act@plmun.edu.ph</p>
+                  </div>
+                  <div class="candidate-info">
+                    <h6 class="text-white">Phone:</h6>
+                    <p class="text-white">09462275277</p>
+                  </div>
+                  <div class="candidate-info">
+                    <h6 class="text-white">Date Of Birth:</h6>
+                    <p class="text-white">12/18/01</p>
+                  </div>
+                  <div class="candidate-info">
+                    <h6 class="text-white">Address:</h6>
+                    <p class="text-white">Blk 2 Lot 25 Freewill Street Putatan Muntinlupa City</p>
+                  </div>
+                  <div class="candidate-info">
+                    <h6 class="text-white">Gender:</h6>
+                    <p class="text-white">Female</p>
+                  </div>
+                </div>
+                <div class="mt-0">
+            <div class="col-lg-7">
+              <div class="resume-experience">
+                <div class="timeline-box">
+                  <h5 class="resume-experience-title">Education:</h5>
+                  <div class="jobster-candidate-timeline">
+                    <div class="jobster-timeline-item">
+                      <div class="jobster-timeline-cricle">
+                        <i class="far fa-circle"></i>
+                      </div>
+                      <div class="jobster-timeline-info">
+                        <div class="dashboard-timeline-info">
+                          <span class="jobster-timeline-time">2016 - 2019</span>
+                          <h6 class="mb-2">High School</h6>
+                          <span>- Tunasan National Highschooll</span>
+                          <p class="mt-2"></p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="jobster-timeline-item mb-0">
+                      <div class="jobster-timeline-cricle">
+                        <i class="far fa-circle"></i>
+                      </div>
+                      <div class="jobster-timeline-info">
+                        <div class="dashboard-timeline-info">
+                          <span class="jobster-timeline-time">2021 - Present</span>
+                          <h6 class="mb-2">College</h6>
+                          <span>- Pamantasan ng Lungsud ng Muntinlupa</span>
+                          <p class="mt-2"></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="timeline-box mt-4">
+                  <h5 class="resume-experience-title">Training &amp; seminars:</h5>
+                  <div class="jobster-candidate-timeline">
+                    <div class="jobster-timeline-item">
+                      <div class="jobster-timeline-cricle">
+                        <i class="far fa-circle"></i>
+                      </div>
+                      <div class="jobster-timeline-info">
+                        <div class="dashboard-timeline-info">
+                          <span class="jobster-timeline-time">2022-7-26</span>
+                          <h6 class="mb-2">National Service Training Program (NSTP)</h6>
+                          <h6 class="mb-2">Mcdonalds (OJT)</h6>
+                          <span> </span>
+                          <p class="mt-2"></p>
+                        </div>
+                      </div>
+                    </div>
+                <div class="timeline-box mt-4">
+                  <h5 class="title">Awards:</h5>
+                  <div class="jobster-candidate-timeline">
+                    <div class="jobster-timeline-item">
+                      <div class="jobster-timeline-cricle">
+                        <i class="far fa-circle"></i>
+                      </div>
+                      <div class="jobster-timeline-info">
+                        <div class="dashboard-timeline-info">
+                          <span class="jobster-timeline-time">2016-6-01</span>
+                          <h6 class="mb-2">High School</h6>
+                          <span>- best in Fillipino</span>
+                        </div>
+                      </div>
+                    </div>
+                    <h5 class="title">Interests & Hobbies:</h5>
+                  <div class="jobster-candidate-timeline">
+                    <div class="jobster-timeline-item">
+                      <div class="jobster-timeline-cricle">
+                        <i class="far fa-circle"></i>
+                      </div>
+                      <div class="jobster-timeline-info">
+                        <div class="dashboard-timeline-info">
+                          <h6 class="mb-2">Reading books</h6>
+                          <h6 class="mb-2">Playing volleyball</h6>
+                          <h6 class="mb-2">Badminton</h6>
+                          <h6 class="mb-2">Wathing Kdrama</h6>
+                        </div>
+                      </div>
+                    </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
